@@ -2,8 +2,8 @@ import './CostItem.css';
 import CostDate from './CostDate';
 import Card from '../UI/Card';
 
-function CostItem(props) {
 
+function CostItem(props) {    
 
     return ( 
         <Card className='cost-item'>
