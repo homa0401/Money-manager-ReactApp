@@ -31,6 +31,11 @@ function App() {
     setCosts([cost, ...costs]);
   };
 
+  // const addCostHandler = (cost) => {
+  //   console.log(cost)
+  //   console.log('App Component')
+  // }
+
   return (
     <div>
       <NewCost onAddCost={addCostHandler} />
