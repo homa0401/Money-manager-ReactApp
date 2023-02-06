@@ -1,5 +1,5 @@
 available  on this link below
-https://singular-buttercream-616286.netlify.app
+https://jocular-strudel-0ff0f6.netlify.app/
 
 # Getting Started with Create React App
 
