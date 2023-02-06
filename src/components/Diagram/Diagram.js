@@ -1,5 +1,4 @@
 import DiagramBar from "./DiagramBar";
-import CostsDiagram from "../Costs/CostsDiagram";
 import "./Diagram.css";
 
 const Diagram = (props) => {

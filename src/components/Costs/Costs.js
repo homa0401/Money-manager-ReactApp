@@ -4,7 +4,6 @@ import CostsFilter from "../CostsFilter/CostsFilter.js";
 import React, { useState } from "react";
 import CostList from "./CostsList.js";
 import CostsDiagram from "./CostsDiagram";
-import Diagram from "../Diagram/Diagram";
 
 function Costs(props) {
   const [selectedYear, setSelectedYear] = useState("2021");
