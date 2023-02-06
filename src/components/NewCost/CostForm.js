@@ -94,9 +94,5 @@ const CostForm = (props) => {
     </form>
   );
 };
-{
-  /* <div className='new-cost__actions'>
-                <button type='submit'>Add New expense</button>
-            </div> */
-}
+
 export default CostForm;
